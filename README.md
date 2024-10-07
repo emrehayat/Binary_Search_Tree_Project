@@ -21,14 +21,4 @@ Dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 9. 4: 7'den ve 5'ten küçük, ancak 1'den ve 3'ten büyük olduğu için 3'ün sağına eklenir.
 10. 2: 7'den ve 5'ten küçük, ancak 1'den büyük ve 3'ten küçük olduğu için 3'ün soluna eklenir.
 
-![Binary Search Tree](binary_search_tree.jpg)
-
-      7
-     / \ 
-    5   8 
-   / \   \ 
-  1   6   9 
- / \ 
-0   3
-   / \ 
-  2   4
+![binary_search_tree ](https://github.com/user-attachments/assets/753c6f6c-b529-42c4-b528-63c1b1e9ffff)
